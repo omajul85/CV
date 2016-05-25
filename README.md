@@ -21,6 +21,10 @@ Short description here...
 
 ## Work
 
+	* one
+	* two <a href="http://www.makersacademy.com/" target="_blank">Makers Academy</a>
+
+
 	* <a href="http://www.makersacademy.com/" target="_blank">Makers Academy</a> - (Mar 2016 to present)
 		*Student of the Europe's leading Web Developer bootcamp.*
 
