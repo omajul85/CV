@@ -19,23 +19,17 @@ Short description here...
 - one
 - two
 
-Work
-----
-<ul>
-	<li>
-		<a href="http://www.makersacademy.com/" target="_blank">Makers Academy</a> - (Mar 2016 to present)
-		<p style="font-style: italic;";>Student of the Europe's leading Web Developer bootcamp.</p>
-	</li>
-</ul>
+## Work
+- [Makers Academy](http://www.makersacademy.com/) - (Mar 2016 to present)
+	*Student of the Europe's leading Web Developer bootcamp.*
 
-	* **Dalet Digital Media Systems** - (Oct 2013 to Mar 2016)
-		*IT & Broadcasting Support Engineer*
-		Paris - France
+* **Dalet Digital Media Systems** - (Oct 2013 to Mar 2016)
+*IT & Broadcasting Support Engineer*
+Paris - France
 
-	* **Technicolor R&D** - (Mar 2013 to Sep 2013)
-		*M. Sc Trainee*
-		Paris - France
-
+* **Technicolor R&D** - (Mar 2013 to Sep 2013)
+*M. Sc Trainee*
+Paris - France
 
 ## Education
 
