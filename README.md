@@ -19,14 +19,14 @@ Short description here...
 - one
 - two
 
-## Work
-
-	* one
-	* two <a href="http://www.makersacademy.com/" target="_blank">Makers Academy</a>
-
-
-	* <a href="http://www.makersacademy.com/" target="_blank">Makers Academy</a> - (Mar 2016 to present)
-		*Student of the Europe's leading Web Developer bootcamp.*
+Work
+----
+<ul>
+	<li>
+		<a href="http://www.makersacademy.com/" target="_blank">Makers Academy</a> - (Mar 2016 to present)
+		<p style="font-style: italic;";>Student of the Europe's leading Web Developer bootcamp.</p>
+	</li>
+</ul>
 
 	* **Dalet Digital Media Systems** - (Oct 2013 to Mar 2016)
 		*IT & Broadcasting Support Engineer*
