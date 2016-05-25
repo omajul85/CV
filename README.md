@@ -49,6 +49,7 @@ Management, etc.).
 - High-intensity 12 week web development course.
 - Main focus on test-driven development, pair programming, agile, and Object-Oriented design
 - Technologies covered: Ruby, Sinatra, Rails, Rspec, Capybara, JavaScript, Jasmine, Karma, Protractor
+- For more information about some projects, please visit this [blog](https://omajul85.github.io/).
 
 #### Embedded Systems: Shape the world, 2015
 EdX and The University of Texas Systems. [Certificate](https://s3.amazonaws.com/verify.edx.org/downloads/ba1b8c3bfff842f99739f71a5b441b6c/Certificate.pdf)
