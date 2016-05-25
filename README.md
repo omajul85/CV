@@ -23,9 +23,6 @@ I am looking for a new career opportunity after three years in the broadcasting 
 - I have worked in multicultural and multidisciplinar teams and that gave me good communicational skills, being able to travel often and use 3 languages on my daily basis. 
 
 ## Work
-- [Makers Academy](http://www.makersacademy.com/) - *Student of the Europe's leading Web Developer bootcamp* - (Mar 2016 to present)
-	* You can read about some of the projects I have done during the course [here](https://omajul85.github.io/).
-
 - [Dalet Digital Media Systems](http://www.dalet.com/) - *IT & Broadcasting Support Engineer* - (Oct 2013 - Mar 2016, Paris - France)
 	* Provide support for critical architectures, such as ingest, editing, asset management, play­out, etc.
 	* Handling actively the entire issue resolution process as a Customer advocate.
@@ -47,6 +44,11 @@ Management, etc.).
 - B.Sc.Eng. in Telecomunications, specialized in Sound and Image
 
 ## Other courses
+
+#### Makers Academy, Mar 2016 - present
+- High-intensity 12 week web development course.
+- Main focus on test-driven development, pair programming, agile, and Object-Oriented design
+- Technologies covered: Ruby, Sinatra, Rails, Rspec, Capybara, JavaScript, Jasmine, Karma, Protractor
 
 #### Embedded Systems: Shape the world, 2015
 EdX and The University of Texas Systems. [Certificate](https://s3.amazonaws.com/verify.edx.org/downloads/ba1b8c3bfff842f99739f71a5b441b6c/Certificate.pdf)
