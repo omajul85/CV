@@ -54,7 +54,7 @@ Management, etc.).
 #### Embedded Systems: Shape the world, 2015
 EdX and The University of Texas Systems. [Certificate](https://s3.amazonaws.com/verify.edx.org/downloads/ba1b8c3bfff842f99739f71a5b441b6c/Certificate.pdf)
 
-#### Programming with C\#
+#### Programming with C# 
 EdX and Microsoft. [Certificate](https://s3.amazonaws.com/verify.edx.org/downloads/766324adefdc4f9fb17723dfc336b5d8/Certificate.pdf)
 
 #### Introduction to Computer Science and Programming Using Python
