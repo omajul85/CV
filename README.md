@@ -21,7 +21,7 @@ Short description here...
 
 ## Work
 
-	* **<a href="http://www.makersacademy.com/" target="_blank">Makers Academy</a>** - (Mar 2016 to present)
+	* <a href="http://www.makersacademy.com/" target="_blank">Makers Academy</a> - (Mar 2016 to present)
 		*Student of the Europe's leading Web Developer bootcamp.*
 
 	* **Dalet Digital Media Systems** - (Oct 2013 to Mar 2016)
@@ -35,7 +35,7 @@ Short description here...
 
 ## Education
 
-#### University of Valenciennes et du Hainaut­Cambrésis, Valenciennes - France, 2011 - 2013
+#### University of Valenciennes et du Hainaut­ Cambrésis, Valenciennes - France, 2011 - 2013
 - M. Sc in Engineering of Systems, Images and Sound
 
 #### University of Alicante, Alicante - Spain, 2004 - 2008
