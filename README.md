@@ -48,7 +48,7 @@ Management, etc.).
 #### Makers Academy, Mar 2016 - present
 - High-intensity 12 week web development course.
 - Main focus on test-driven development, pair programming, agile, and Object-Oriented design
-- Technologies covered: Ruby, Sinatra, Rails, Rspec, Capybara, JavaScript, Jasmine, Karma, Protractor
+- Technologies covered: Ruby, Sinatra, Rails, Angular, JavaScript, Rspec, Capybara, Jasmine...
 - For more information about some projects, please visit this [blog](https://omajul85.github.io/).
 
 #### Embedded Systems: Shape the world, 2015
