@@ -20,9 +20,11 @@ I am looking for a new career opportunity after three years in the broadcasting 
 - Understanding of multiplatform delivery technologies (mobile, desktop, OTT devices).
 - Development of two Plug­ins (SeamCarving and Denoising) for the [TuttleOFX](https://sites.google.com/site/tuttleofx/) library and tested in the compositing software Nuke.
 
-#### Customer oriented skills
+#### Other skills
 
 - I have worked in multicultural and multidisciplinar teams and that gave me good communicational skills, being able to travel often and use 3 languages on my daily basis. 
+- Excited by failure: For the last 16 weeks I have been exposed to completely new topics, challenges and situations that can be overwhelming. I know how to learn from failure and I I trust my abilities to cope and adapt.
+- Self and quick learner: I am a passionate self learner and enjoy reading and discovering multiple areas (not just coding), such as art, music, languages, etc.
 
 ## Work
 - [Dalet Digital Media Systems](http://www.dalet.com/) - *IT & Broadcasting Support Engineer* - (Oct 2013 - Mar 2016, Paris - France)
