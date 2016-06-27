@@ -76,4 +76,4 @@ I enjoy playing the piano and the guitar, as well as playing football. I love la
 - **Email:** omajul@gmail.com
 - **LinkedIn:** [https://fr.linkedin.com/in/omaralvarez1](https://fr.linkedin.com/in/omaralvarez1)
 - **GitHub:** [https://github.com/omajul85](https://github.com/omajul85)
-- **Porfolio:** [https://omajul85.github.io/](https://omajul85.github.io/)
+- **Portfolio:** [https://omajul85.github.io/](https://omajul85.github.io/)
