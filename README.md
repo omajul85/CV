@@ -1,12 +1,12 @@
 # Omar Alvarez
 
-I am looking for a new career opportunity after three years in the broadcasting industry in Paris. My desire is to redirect my career towards a more technical field where I can use my design and programming skills within a team. I have always had an interest in video and image processing.  Currently I am doing a course by Makers Academy (London) in web development involving new languages and frameworks used on modern applications such as Ruby on Rails, Sinatra and JavaScript. My personal objective is to combine my existing knowledge in the audiovisual field with the latest web technologies in today's marketplace.
+I am looking for a new career opportunities after three years in the broadcasting industry in Paris. My desire is to redirect my career towards software development and apply my design and programming skills within a team. I have always had an interest in video and image processing.  Currently I am doing a course by Makers Academy (London) in web development involving new languages and frameworks used on modern applications and also best practices on patterns, XP-values, pair-programming and teamwork. My personal objective is to combine my existing knowledge in the audiovisual field with the latest web technologies in today's marketplace.
 
 ## Skills
 
 #### Programming skills
 
-* __Languages, Frameworks and Databases__: Ruby, Ruby on Rails, JavaScript, AngularJS, jQuery, Ajax, Phaser (HTML5 framework for game development), Postgres SQL, Sinatra,Datamapper.
+* __Languages, Frameworks and Databases__: Ruby, Ruby on Rails, JavaScript, AngularJS, jQuery, Ajax, Phaser (HTML5 framework for game development), Postgres SQL, Sinatra, Datamapper.
 * __Testing__: Rspec, Jasmine, Capybara, Protractor, Karma.
 * __Web__: Version control with GitHub, User authentication (Devise, Omniauth), Heroku, Bootstrap, API integration (The Guardian API, Wunderground, Yelp API, Cloudinary).
 * __Practices__: Pair Programming, SOLID Principles, Test Driven Development, Software Craftsmanship, MVC/MVW.
@@ -24,7 +24,7 @@ I am looking for a new career opportunity after three years in the broadcasting 
 
 - I have worked in multicultural and multidisciplinar teams and that gave me good communicational skills, being able to travel often and use 3 languages on my daily basis. 
 - Excited by failure: For the last 16 weeks I have been exposed to completely new topics, challenges and situations that can be overwhelming. I know how to learn from failure and I I trust my abilities to cope and adapt.
-- Self and quick learner: I am a passionate self learner and enjoy reading and discovering multiple areas (not just coding), such as art, music, languages, etc.
+- Self and quick learner: I am a passionate self learner and enjoy reading and discovering multiple areas (not just coding), such as painting (I painted more than 15 pictures using different techniques), music (I can play more than 8 instruments and still have no idea of reading music), languages (I learned the basics of french on my own before taking the adventure of moving to France looking for new career opportunities).
 
 ## Work
 - [Dalet Digital Media Systems](http://www.dalet.com/) - *IT & Broadcasting Support Engineer* - (Oct 2013 - Mar 2016, Paris - France)
@@ -53,7 +53,7 @@ Management, etc.).
 - High-intensity 12 week web development course.
 - Main focus on test-driven development, pair programming, agile, and Object-Oriented design
 - Technologies covered: Ruby, Sinatra, Rails, Angular, JavaScript, Rspec, Capybara, Jasmine...
-- For more information about some projects, please visit this [blog](https://omajul85.github.io/).
+- For more information about some projects, please visit this [portfolio](https://omajul85.github.io/).
 
 #### Embedded Systems: Shape the world, 2015
 EdX and The University of Texas Systems. [Certificate](https://s3.amazonaws.com/verify.edx.org/downloads/ba1b8c3bfff842f99739f71a5b441b6c/Certificate.pdf)
