@@ -1,6 +1,6 @@
 # Omar Alvarez
 
-I am looking for a new career opportunity after three years in the broadcasting industry in Paris. My desire is to redirect my career towards a more technical field where I can use my design and programming skills within a team. I have always had an interest in video and image processing.  Currently I am doing a course by Makers Academy (London) in web development involving new languages and frameworks used on modern applications such as Ruby on Rails, Sinatra and JavaScript. My personal objective is to combine my existing knowledge with the latest web technologies in today's marketplace.
+I am looking for a new career opportunity after three years in the broadcasting industry in Paris. My desire is to redirect my career towards a more technical field where I can use my design and programming skills within a team. I have always had an interest in video and image processing.  Currently I am doing a course by Makers Academy (London) in web development involving new languages and frameworks used on modern applications such as Ruby on Rails, Sinatra and JavaScript. My personal objective is to combine my existing knowledge in the audiovisual field with the latest web technologies in today's marketplace.
 
 ## Skills
 
@@ -15,8 +15,8 @@ I am looking for a new career opportunity after three years in the broadcasting 
 #### Image Processing
 
 - I have implemented different applications for digital treatment of images and sound that helped me to learn programming in different languages such as C/C++, MATLAB, Python and Java. I also gained a greater understanding of the mathematical methods for signal processing.
-- Understanding of codecs H.264
-- H.264 file parsing for extraction of statistics for the accommodation of the bit stream video watermarking system. (Done in C++)
+- Understanding of codecs H.264.
+- H.264 file parsing for extraction of statistics for the accommodation of the bit stream video watermarking system. (Done in C++).
 - Understanding of multiplatform delivery technologies (mobile, desktop, OTT devices).
 - Development of two Plug­ins (SeamCarving and Denoising) for the [TuttleOFX](https://sites.google.com/site/tuttleofx/) library and tested in the compositing software Nuke.
 
@@ -70,3 +70,10 @@ EdX and MITx. [Certificate](https://s3.amazonaws.com/verify.edx.org/downloads/5b
 
 ## Personal interests
 I enjoy playing the piano and the guitar, as well as playing football. I love latin music like Salsa and Latin Jazz. Cooking is something that fascinates me. I enyoy learning lots of things including drawing, dancing and singing. I am also keen on photography and travel. 
+
+## Contact
+
+- **Email:** omajul@gmail.com
+- **LinkedIn:** [https://fr.linkedin.com/in/omaralvarez1](https://fr.linkedin.com/in/omaralvarez1)
+- **GitHub:** [https://github.com/omajul85](https://github.com/omajul85)
+- **Porfolio:** [https://omajul85.github.io/](https://omajul85.github.io/)
