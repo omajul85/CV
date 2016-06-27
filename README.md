@@ -26,7 +26,7 @@ I am looking for a new career opportunity after three years in the broadcasting 
 
 ## Work
 - [Dalet Digital Media Systems](http://www.dalet.com/) - *IT & Broadcasting Support Engineer* - (Oct 2013 - Mar 2016, Paris - France)
-	* Provide support for critical architectures, such as ingest, editing, asset management, play­out, etc.
+	* Provide support for critical architectures, such as ingest, editing, asset management, play­out using Dalet products.
 	* Handling actively the entire issue resolution process as a Customer advocate.
 	* Act as interface between the customers administrators and internal Dalet departments (escalate when needed to the R&D, Product 
 Management, etc.).
