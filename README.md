@@ -6,9 +6,11 @@ I am looking for a new career opportunity after three years in the broadcasting 
 
 #### Programming skills
 
-- Able to write scripts in several languages such as Python, Ruby and Shell.
-- Web development languages and frameworks such as Ruby, JavaScript, Sinatra, jQuery.
-- Comfortable with Test-Driven Development and Object-Oriented Programming.
+* __Languages, Frameworks and Databases__: Ruby, Ruby on Rails, JavaScript, AngularJS, jQuery, Ajax, Phaser (HTML5 framework for game development), Postgres SQL, Sinatra,Datamapper.
+* __Testing__: Rspec, Jasmine, Capybara, Protractor, Karma.
+* __Web__: Version control with GitHub, User authentication (Devise, Omniauth), Heroku, Bootstrap, API integration (The Guardian API, Wunderground, Yelp API, Cloudinary).
+* __Practices__: Pair Programming, SOLID Principles, Test Driven Development, Software Craftsmanship, MVC/MVW.
+* __Applications deployed__: [Rock-Paper-Scissor (Sinatra)](https://rps-omajul85.herokuapp.com/), [Twitter clone (Sinatra)](https://chitter-omajul85.herokuapp.com/), [Bowling Scorer (JavaScript)](https://bowling-omajul85.herokuapp.com/), [Instragram clone (Ruby on Rails)](https://instagram-omajul85.herokuapp.com/), [Notes (Ruby on Rails)](https://notes-omajul85.herokuapp.com/), [Holiday planner - AngularJS](http://holiday-planner.herokuapp.com/), [Makers Invaders - Phaser](https://makers-invaders.herokuapp.com/), more examples [here](https://omajul85.github.io/).
 
 #### Image Processing
 
