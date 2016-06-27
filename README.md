@@ -1,6 +1,6 @@
 # Omar Alvarez
 
-I am looking for a new career opportunities after three years in the broadcasting industry in Paris. My desire is to redirect my career towards software development and apply my design and programming skills within a team. I have always had an interest in video and image processing.  Currently I am doing a course by Makers Academy (London) in web development involving new languages and frameworks used on modern applications and also best practices on patterns, XP-values, pair-programming and teamwork. My personal objective is to combine my existing knowledge in the audiovisual field with the latest web technologies in today's marketplace.
+I am looking for new career opportunities after three years in the broadcasting industry in Paris. My desire is to redirect my career towards software development and apply my design and programming skills within a team. I have always had an interest in video and image processing.  Currently I am doing a course by Makers Academy (London) in web development involving new languages and frameworks used on modern applications and also best practices on programming patterns, XP-values, pair-programming and teamwork. My personal objective is to combine my existing knowledge in the audiovisual field with the latest web technologies in today's marketplace.
 
 ## Skills
 
@@ -22,9 +22,9 @@ I am looking for a new career opportunities after three years in the broadcastin
 
 #### Other skills
 
-- I have worked in multicultural and multidisciplinar teams and that gave me good communicational skills, being able to travel often and use 3 languages on my daily basis. 
-- Excited by failure: For the last 16 weeks I have been exposed to completely new topics, challenges and situations that can be overwhelming. I know how to learn from failure and I I trust my abilities to cope and adapt.
-- Self and quick learner: I am a passionate self learner and enjoy reading and discovering multiple areas (not just coding), such as painting (I painted more than 15 pictures using different techniques), music (I can play more than 8 instruments and still have no idea of reading music), languages (I learned the basics of french on my own before taking the adventure of moving to France looking for new career opportunities).
+- I have worked in multicultural and multidisciplinary teams that gave me good communicational skills, being able to travel often and use 3 languages on a daily basis. 
+- Not afraid of failure: For the last 16 weeks I have been exposed to completely new topics, challenges and situations that can be overwhelming. I know how to learn from failure and I I trust my abilities to cope and adapt.
+- Independant and quick learner: I am a passionate learner and enjoy reading and discovering multiple areas (not just coding), such as painting (I've painted more than 15 pictures using different techniques), music (I can play more than 8 instruments and still have no idea how to reading music), languages (I learned the basics of french on my own before taking the adventure of moving to France looking for new career opportunities).
 
 ## Work
 - [Dalet Digital Media Systems](http://www.dalet.com/) - *IT & Broadcasting Support Engineer* - (Oct 2013 - Mar 2016, Paris - France)
@@ -69,9 +69,6 @@ EdX and MITx. [Certificate](https://s3.amazonaws.com/verify.edx.org/downloads/5b
 - **Spanish:** Native
 - **French:** Fluent
 - **English:** Fluent
-
-## Personal interests
-I enjoy playing the piano and the guitar, as well as playing football. I love latin music like Salsa and Latin Jazz. Cooking is something that fascinates me. I enyoy learning lots of things including drawing, dancing and singing. I am also keen on photography and travel. 
 
 ## Contact
 
