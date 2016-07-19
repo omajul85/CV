@@ -1,6 +1,6 @@
 # Omar Alvarez
 
-I am looking for new career opportunities after three years in the broadcasting industry in Paris. My desire is to redirect my career towards software development and apply my design and programming skills within a team. I have always had an interest in video and image processing.  Currently I am doing a course by Makers Academy (London) in web development involving new languages and frameworks used on modern applications and also best practices on programming patterns, XP-values, pair-programming and teamwork. My personal objective is to combine my existing knowledge in the audiovisual field with the latest web technologies in today's marketplace.
+I am looking for new career opportunities after three years in the broadcasting industry in Paris. My desire is to redirect my career towards software development and apply my design and programming skills within a team. I have always had an interest in video and image processing.  I have just graduated from a course by Makers Academy (London) in web development involving new languages and frameworks used on modern applications and also best practices on programming patterns, XP-values, pair-programming and teamwork. My personal objective is to combine my existing knowledge in the audiovisual field with the latest web technologies in today's marketplace.
 
 ## Skills
 
