@@ -7,8 +7,8 @@ I am a highly driven software engineer with a desire to expand my existing skill
 #### Programming skills
 
 - **Languages, Frameworks and Databases**: Ruby (Sinatra and Ruby on Rails), Elixir (Phoenix), JavaScript (React.js, Redux), Postgres SQL, MongoDB, Redis.
-- **Testing**: Rspec, ExUnit, Jasmine, Capybara, Jest.
-- **Web**: Version control with GitHub, Continuous integration with TeamCity, Heroku, API integration (Spotify, Guardian API, Wunderground, Yelp API, Cloudinary). Design and implementation of several microservices.
+- **Testing**: RSpec, ExUnit, Jasmine, Capybara, Jest.
+- **Web**: Version control with GitHub, Continuous integration with TeamCity, Heroku, API integration (Spotify, Guardian API, Wunderground, Yelp API, Cloudinary). Design and implementation of several micro-services.
 - **Practices**: XP-values and practices, SOLID Principles, Test Driven Development, Agile methodology.
 
 #### Image Processing
@@ -16,7 +16,7 @@ I am a highly driven software engineer with a desire to expand my existing skill
 - I have implemented different applications for digital treatment of images and sound that helped me to learn programming in different languages such as C/C++, MATLAB, Python and Java. I also gained a greater understanding of the mathematical methods for signal processing.
 - Understanding of codecs H.264.
 - H.264 file parsing for extraction of statistics for the accommodation of the bit stream video watermarking system. (Done in C++).
-- Understanding of multiplatform delivery technologies (mobile, desktop, OTT devices).
+- Understanding of multi-platform delivery technologies (mobile, desktop, OTT devices).
 - Development of two Plug­ins (SeamCarving and Denoising) for the [TuttleOFX](https://sites.google.com/site/tuttleofx/) library and tested in the compositing software Nuke.
 
 #### Other skills
